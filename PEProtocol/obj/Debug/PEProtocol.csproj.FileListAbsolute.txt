@@ -1,0 +1,10 @@
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\bin\Debug\PEProtocol.dll
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\bin\Debug\PEProtocol.pdb
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\bin\Debug\PESocket.dll
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\bin\Debug\PESocket.pdb
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\obj\Debug\PEProtocol.dll
+C:\huangziyang\study\Unity\C#Project\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+C:\huangziyang\study\Unity\Project\DarkGod\Assets\Scripts\Net\PEProtocol.dll
+C:\huangziyang\study\Unity\Project\DarkGod\Assets\Scripts\Net\PEProtocol.pdb
